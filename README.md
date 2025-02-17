@@ -1,4 +1,4 @@
-# aplikasi kalkulator sederhana 
+# Aplikasi kalkulator sederhana 
 aplikasi ini di buat untuk ukk RPL 2024/2025 pada 21 febuari 2025
 
 # Fitur Kalkulator
